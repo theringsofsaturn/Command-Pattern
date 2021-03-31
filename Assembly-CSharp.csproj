@@ -65,6 +65,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Interfaces\ICommand.cs" />
+    <Compile Include="Assets\Scripts\Interfaces\UserClick.cs" />
     <Reference Include="UnityEngine.Purchasing">
       <HintPath>C:/Users/emili/Desktop/Create with Code/Command Pattern/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
     </Reference>
